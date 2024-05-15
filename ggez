@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alexander Marin - Dark Souls Master</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #7ab800;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1, h2, p {
+            margin: 10px;
+        }
+        section {
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        .about {
+            text-align: center;
+        }
+        .games {
+            text-align: center;
+        }
+        .footer {
+            background-color: #7ab800;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Alexander Marin's Page</h1>
+    </header>
+    <div class="container">
+        <section class="about">
+            <h2>About Me</h2>
+            <p>Hello! I'm Alexander Marin, and I'm proud to say that I've achieved 100% completion in every single Dark Souls game, including Sekiro, Bloodborne, and Elden Ring. Gaming is not just a hobby for me; it's a passion!</p>
+        </section>
+        <section class="games">
+            <h2>My Achievements</h2>
+            <p>If you're curious about my gaming prowess, just know that I've conquered every challenge these games threw at me. From mastering the intricate combat mechanics to uncovering every hidden secret, I've done it all.</p>
+        </section>
+    </div>
+    <footer class="footer">
+        <p>Designed with ❤️ by Alexander Marin | Inspired by the soft green floral of Arizona tea</p>
+    </footer>
+</body>
+</html>
